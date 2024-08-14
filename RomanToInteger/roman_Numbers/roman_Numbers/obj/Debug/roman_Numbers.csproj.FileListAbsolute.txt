@@ -1,0 +1,6 @@
+D:\Users\20211170150036\Documents\Git\TAL-2024\RomanToInteger\roman_Numbers\roman_Numbers\bin\Debug\roman_Numbers.exe
+D:\Users\20211170150036\Documents\Git\TAL-2024\RomanToInteger\roman_Numbers\roman_Numbers\bin\Debug\roman_Numbers.pdb
+D:\Users\20211170150036\Documents\Git\TAL-2024\RomanToInteger\roman_Numbers\roman_Numbers\obj\Debug\roman_Numbers.csproj.AssemblyReference.cache
+D:\Users\20211170150036\Documents\Git\TAL-2024\RomanToInteger\roman_Numbers\roman_Numbers\obj\Debug\roman_Numbers.csproj.CoreCompileInputs.cache
+D:\Users\20211170150036\Documents\Git\TAL-2024\RomanToInteger\roman_Numbers\roman_Numbers\obj\Debug\roman_Numbers.exe
+D:\Users\20211170150036\Documents\Git\TAL-2024\RomanToInteger\roman_Numbers\roman_Numbers\obj\Debug\roman_Numbers.pdb
